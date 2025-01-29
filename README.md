@@ -1,21 +1,39 @@
-## Live demo
+# 🎯 Freshman Pomodoro Clock Demo  
 
-The completed version of this project is live at
-https://jinaldave.github.io/Pomodoro/
+A simple **Pomodoro Timer** built using **HTML, CSS, and JavaScript**. This project helps users improve their productivity by following the **Pomodoro Technique**, which consists of **work sessions** followed by **short or long breaks**.  
 
-## Prerequisites
+## ⚡ Features  
+✅ **Pomodoro, Short Break, and Long Break Modes**  
+✅ **Dynamic Background Changes Based on Mode** 🎨  
+✅ **Progress Bar for Session Tracking** 📊  
+✅ **Start, Pause, and Reset Functionality** ⏯️  
+✅ **Smooth CSS Transitions and Styling** ✨  
 
-You must have [Node.js](https://nodejs.org/en/download/) and
-[npm](https://www.npmjs.com/get-npm) installed on your machine. This project was
-built against the following versions:
+## 🛠️ Technologies Used  
+🖥️ **HTML5** - For structuring the web page  
+🎨 **CSS3** - For styling and animations  
+⚙️ **JavaScript (ES6+)** - For handling timer logic  
 
-Node v13.13.0
-npm v6.14.5
 
-## Get started
+## 🚀 How to Run the Project  
+1. **Clone the Repository** 🌀  
+   ```bash
+   git clone https://github.com/jinaldave3/Pomodoro.git
+   cd Pomodoro
+2. **Open the index.html file in any web browser.**
+## ⏳ How It Works  
 
-Clone this repository to your local machine with:
+- Click **"Pomodoro"** to start a **25-minute work session** ⏱️.  
+- Click **"Short Break"** (5 minutes) or **"Long Break"** (15 minutes) when needed.  
+- The **background color changes** based on the selected mode 🎭.  
+- The **progress bar fills up** as time progresses 📊.  
+- **Sounds** 🔊 indicate when the session ends.  
 
-```bash
-$ git clone https://github.com/Pomodoro/pomodoro.git
-```
+---
+
+## 🚧 Future Improvements  
+
+🔹 Add a **settings panel** to customize session lengths ⚙️  
+🔹 Implement a **pause/resume** button ⏯️  
+🔹 Improve UI with **animations** 🎬  
+
